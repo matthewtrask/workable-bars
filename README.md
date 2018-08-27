@@ -29,3 +29,10 @@ should help you out!
 * ML Rose - 11th Ave - [map](https://www.google.com/maps/place/M.L.Rose+Craft+Beer+%26+Burgers+-+Capitol+View/@36.1632673,-86.7935666,17z/data=!3m1!4b1!4m5!3m4!1s0x886466f1d2cc39a5:0xdaf23137e8eb5e0b!8m2!3d36.1632673!4d-86.7913779) :beer: :electric_plug: :hamburger: :cocktail: :sunny:
 * Pinewood Social - Peabody St - [map](https://www.google.com/maps?q=pinewood+social+map&oe=utf-8&client=firefox-b-1-ab&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjz3Mi5g4zdAhVskuAKHdB6DnMQ_AUICigB) :electric_plug: :hamburger: :cocktail: :coffee: :sunny:
 * Frothy Monkey - 5th Ave - [map](https://www.google.com/maps?q=frothy+monkey+5th+ave&oe=utf-8&client=firefox-b-1-ab&um=1&ie=UTF-8&sa=X&ved=0ahUKEwi1qP-6hYzdAhVHPN8KHXbBCdoQ_AUICigB)  :electric_plug: :hamburger: :cocktail: :coffee:
+
+
+### New York
+#### Brooklyn
+#### Park Slope
+* Johnny Macks - 8th Ave - [map](https://www.google.com/maps/place/Johnny+Mack's+Bar+%26+Grill/@40.6641739,-73.9807749,15z/data=!4m2!3m1!1s0x0:0x35e81aa74abf4bbd?sa=X&ved=2ahUKEwiC6JeCq4zdAhVJJVAKHddPBfcQ_BIwCnoECAoQCw) :beer: :pizza: :hamburger: :cocktail: :sunny:
+* Dram Shop - 9th St - [map](https://www.google.com/maps/place/Dram+Shop/@40.6688658,-73.9872462,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25afd086b09f3:0xbf429d3bba2daf34!8m2!3d40.6688658!4d-73.9850575) :beer: :hamburger: :cocktail: :sunny:
