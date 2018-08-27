@@ -26,3 +26,7 @@ should help you out!
 ### Georgia
 #### Atlanta
 * Octane - Marietta St - [map](https://www.google.com/maps/dir/''/octane+westside/data=!4m5!4m4!1m0!1m2!1m1!1s0x88f504930894ba89:0x352b4a3edc2127e3?sa=X&ved=2ahUKEwjF8b-ii4zdAhUymuAKHebhCoYQ9RcwD3oECAoQEw) :coffee: :hamburger: :electric_plug:
+
+### South Carolina
+#### Greenville
+* Coffee Underground - Coffee St - [map](https://www.google.com/maps/place/Coffee+Underground/@34.8507581,-82.3987221,17.52z/data=!4m13!1m7!3m6!1s0x88578f6662fa1105:0xd8aa9d77bf257696!2sGreenville,+SC!3b1!8m2!3d34.8526176!4d-82.3940104!3m4!1s0x885831d1edde8ccb:0x6161602b529d8b!8m2!3d34.851593!4d-82.398336) :coffee: :electric_plug: :cocktail: :hamburger:
