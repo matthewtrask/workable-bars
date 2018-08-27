@@ -6,7 +6,7 @@ should help you out!
 # Key
 * :beer: - If the place has (good) beer
 * :coffee: - If the place has (good) coffee
-* :burger: - Sandwichs/Burgers
+* :hamburger: - Sandwichs/Burgers
 * :pizza: - Pizza
 * :electric_plug: - Outlets available
 * :cocktail: - Full bar available
