@@ -21,3 +21,4 @@ should help you out!
 #### Nashville
 * ML Rose - 11th Ave - [map](https://www.google.com/maps/place/M.L.Rose+Craft+Beer+%26+Burgers+-+Capitol+View/@36.1632673,-86.7935666,17z/data=!3m1!4b1!4m5!3m4!1s0x886466f1d2cc39a5:0xdaf23137e8eb5e0b!8m2!3d36.1632673!4d-86.7913779) :beer: :electric_plug: :hamburger: :cocktail: :sunny:
 * Pinewood Social - Peabody St - [map](https://www.google.com/maps?q=pinewood+social+map&oe=utf-8&client=firefox-b-1-ab&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjz3Mi5g4zdAhVskuAKHdB6DnMQ_AUICigB) :electric_plug: :hamburger: :cocktail: :coffee: :sunny:
+* Frothy Monkey - 5th Ave - [map](https://www.google.com/maps?q=frothy+monkey+5th+ave&oe=utf-8&client=firefox-b-1-ab&um=1&ie=UTF-8&sa=X&ved=0ahUKEwi1qP-6hYzdAhVHPN8KHXbBCdoQ_AUICigB)  :electric_plug: :hamburger: :cocktail: :coffee:
