@@ -13,7 +13,6 @@ should help you out!
 * :sunny: - Patio available
 
 # United States
-<hr>
 
 ## States
 
