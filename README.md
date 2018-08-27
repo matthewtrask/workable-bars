@@ -4,13 +4,13 @@ should help you out!
 
 
 # Key
-:beer: - If the place has (good) beer
-:coffee: - If the place has (good) coffee
-:burger: - Sandwichs/Burgers
-:pizza: - Pizza
-:electric_plug: - Outlets available
-:cocktail: - Full bar available
-:sunny: - Patio available
+* :beer: - If the place has (good) beer
+* :coffee: - If the place has (good) coffee
+* :burger: - Sandwichs/Burgers
+* :pizza: - Pizza
+* :electric_plug: - Outlets available
+* :cocktail: - Full bar available
+* :sunny: - Patio available
 
 # United States
 <br>
